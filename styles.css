@@ -1,0 +1,45 @@
+body
+ {background-color: green;
+
+}
+p {color: white;
+font-size: white;
+margin-top: 25px;
+text-align: center;
+}
+h1 {font-size: white;
+margin-top: 145px;
+text-align: center;
+color: white;
+}
+input {width: 342px;
+height: 54px;
+margin-bottom: 16px;
+font-size: 17px;
+padding-left: 26px;
+display: block;
+margin-right: auto;
+margin-left: auto;
+
+}
+button{ display: block;
+border: none;
+background-color: black;
+font-weight: bold;
+width: 342px;
+height: 54px;
+color:white;
+margin-left: auto;
+margin-right: auto;
+cursor: pointer;
+}
+button:active {opacity: 0.6;}
+
+a {color: white;
+  margin-left: auto;
+  margin-right: auto;
+ margin-top: 130px;
+ text-align: center;
+ font-size: 14px;
+ display: block;
+}
